@@ -1,0 +1,1 @@
+This project ask for the user country and country abbreviation and returns weather information of the place that the user write.
