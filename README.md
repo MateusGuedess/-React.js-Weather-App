@@ -1,1 +1,1 @@
-This project ask for the user country and country abbreviation and returns weather information of the place that the user write.
+This project ask for the user city and country abbreviation and the app returns weather information of the place that the user write.
